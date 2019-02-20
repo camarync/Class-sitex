@@ -1,0 +1,39 @@
+body {
+    font-size: 100%;
+    font-size: 0.875em; /* 14/16=.875=14 pts */
+      background-image: linear-gradient(#e84392, #5650ce);
+}
+
+p {
+    font-family: "Courier New", courier, monospace;
+    font-weight: normal;
+    font-size: 2vw;
+    line-height: 120%;
+    text-align: justify;
+    color: blue;
+   
+}
+
+p2 {
+    font-family: "Courier New", courier, monospace;
+    font-weight: normal;
+    font-size: 2vw;
+    line-height: 120%;
+    text-align: right;
+    color: deeppink;
+}
+
+h1 {
+    font-family: "Helvetica", courier, monospace;
+    font-size: 6vw;
+    line-height: 60%;
+    color: red;
+}
+
+.wrapper {
+    background-color: black; 
+    margin: 4% auto;
+    padding: 20px;
+    width: 10%;
+}
+
